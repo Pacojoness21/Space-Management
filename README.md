@@ -10,7 +10,7 @@ For our game for Assigment 2 we had to make a game following this requisites:
 
 So we decided to make a top down game in space. The player would control a spaceship with WASD that would always look towards the cursor. The world would be a solar system similar to ours with 6 planets with color names so that it would be easier to spot them (RED, YELLOW, BLUE, PINK, WHITE, GREEN).
 
-<img width="1278" height="715" alt="imagen" src="https://github.com/user-attachments/assets/83e2120e-1ec8-4cc5-89a5-fb32e3b4e064" />
+<img width="1279" height="717" alt="Screenshot1" src="https://github.com/user-attachments/assets/7a0592aa-31a7-4433-9c63-de3de4692eb6" />
 
 For the goal of the game the player would have to deliver packages from one planet to another avoiding enemies, trying to fill a quota. We also needed to make a camera that would follow the player.
 We also needed to make a minimap so that the player would know where the planets where and where to go.
