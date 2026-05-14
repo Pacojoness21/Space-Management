@@ -25,3 +25,4 @@ Enemies: for the enemies we made a simple AI that would follow the player if it'
 
 <img width="1278" height="715" alt="Screenshot2" src="https://github.com/user-attachments/assets/adc0f9bb-7154-4c80-8847-6961eab543e2" />
 
+Game made by Nel Allende Iglesias and Jorge Sáez Saldaña
