@@ -25,4 +25,14 @@ Enemies: for the enemies we made a simple AI that would follow the player if it'
 
 <img width="1278" height="715" alt="Screenshot2" src="https://github.com/user-attachments/assets/adc0f9bb-7154-4c80-8847-6961eab543e2" />
 
+Start Screen: we created a main menu that appears only when the game first launches. The user sees a clear title, a rotating spaceship, and decorative planets. A large blue "PLAY" button changes color when the mouse hovers over it. The player simply clicks this button to start the game immediately. After dying and restarting, the menu does not reappear, letting players jump straight back into action. This design provides a clean, intuitive entry point without repeated interruptions.
+
+<img width="1269" height="744" alt="image" src="https://github.com/user-attachments/assets/5f04c6c8-f296-49e5-972b-b5ae0d746b41" />
+
+Explosion & Death Screen: we implemented a death sequence where the ship explodes into a growing, fading orange circle before showing the game over screen. When the player dies, the ship instantly disappears, and a quick 0.5‑second explosion animation plays at its position. Only after the explosion finishes does the “YOU DIED” message appear, along with a “PRESS ENTER TO PLAY AGAIN” prompt. This delay gives visual feedback and avoids overlapping the explosion with the menu. The restart button resets all game variables and reloads the scene, letting the player try again seamlessly. The explosion uses a simple circular texture that scales up and fades out, creating a satisfying death effect.
+
+<img width="1172" height="635" alt="image" src="https://github.com/user-attachments/assets/12ce4456-3a9c-4b59-bb42-312d66c4605d" />
+
+
+
 Game made by Nel Allende Iglesias and Jorge Sáez Saldaña
